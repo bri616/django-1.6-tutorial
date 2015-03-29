@@ -1,4 +1,7 @@
+.idea\*
+
 syntax: re
 ^.*\.pyc$
+
 
 
