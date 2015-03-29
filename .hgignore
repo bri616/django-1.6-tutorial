@@ -1,7 +1,5 @@
-.idea
-
 syntax: re
 ^.*\.pyc$
-
+^\.idea$
 
 
